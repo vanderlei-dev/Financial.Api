@@ -1,0 +1,6 @@
+@Financial.Api_HostAddress = https://localhost:53165
+
+POST {{Financial.Api_HostAddress}}/import
+Accept: application/json
+
+###

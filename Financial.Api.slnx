@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="docker-compose.dcproj">
+    <Build />
+  </Project>
+  <Project Path="Financial.Api/Financial.Api.csproj" />
+  <Project Path="Financial.Test/Financial.Test.csproj" />
+</Solution>
